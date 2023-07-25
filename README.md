@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luiss811
 - 📚 Curso el TSU en Diseño y desarrollo de software multiplataforma
-     en la Universidad Tecnológica de Querétaro [ UTEQ ]
+     en la Universidad Tecnológica de Querétaro  [ UTEQ ]
 - 🌱 I’m currently learning ...
 - 📫 Contacto lalitorios81@gmail.com
 
