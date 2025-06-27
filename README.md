@@ -7,6 +7,6 @@
 
 | Proyecto       | Descripción                                | Tecnologías   |
 | -------------- | ------------------------------------------ | ------------- |
-| **MiAppWeb**   | Aplicación web para gestión de tareas      | React, NodeJS |
-| **APIClima**   | Servicio REST para información meteorológica| Python, Flask |
-| **Portfolio**  | Página personal con tu portafolio          | HTML, CSS     |
+| **PetsFamily**   | Aplicación Web basada en el caso de estudio de una clínica veterinaria   | React, NodeJS |
+| **Valkiria App**   |Aplicación Web basada en el caso de estudio de una tienda dedicada a los juegos de mesa| React, Bootstrap |
+| **Portfolio**  | Portfolio de presentación          | HTML, CSS, JavaScript    |
