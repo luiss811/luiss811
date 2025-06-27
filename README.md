@@ -7,6 +7,6 @@
 
 | Proyecto       | Descripción                                | Tecnologías   |
 | -------------- | ------------------------------------------ | ------------- |
-| **PetsFamily**   | Aplicación Web basada en el caso de estudio de una clínica veterinaria   | React, NodeJS |
-| **Valkiria App**   |Aplicación Web basada en el caso de estudio de una tienda dedicada a los juegos de mesa| React, Bootstrap |
+| **PetsFamily**   | Aplicación Web basada en el caso de estudio de una clínica veterinaria   | HTML, CSS |
+| **Valkiria App**   |Aplicación Web basada en el caso de estudio de una tienda dedicada a los juegos de mesa| Dart, Bootstrap |
 | **Portfolio**  | Portfolio de presentación          | HTML, CSS, JavaScript    |
