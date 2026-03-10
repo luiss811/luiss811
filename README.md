@@ -1,20 +1,3 @@
-
-° Titulado en Técnico en programación del Centro de Estudios Tecnológicos industrial y de servicios No.16
-
-° Contacto lalitorios81@gmail.com
-
-## Proyectos Destacados
-
-| Proyecto       | Descripción                                | Tecnologías   |
-| -------------- | ------------------------------------------ | ------------- |
-| **PetsFamily**   | Aplicación Web basada en el caso de estudio de una clínica veterinaria   | HTML, CSS |
-| **Valkiria App**   |Aplicación Web basada en el caso de estudio de una tienda dedicada a los juegos de mesa| Dart, Bootstrap |
-| **Portfolio**  | Portfolio de presentación          | HTML, CSS, JavaScript    |
-
-
-
-
-
 ![](https://komarev.com/ghpvc/?username=luiss811&color=blue&style=for-the-badge)
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Luis Eduardo
@@ -31,7 +14,7 @@ Backend Developer • AI Automation • Software Architecture • Security
 
 ---
 
-# Engineering Profile
+# Perfil de ingeniero
 
 Soy desarrollador de software enfocado en **arquitectura de sistemas, automatización con inteligencia artificial y seguridad informática**. Me gusta construir soluciones que integren backend, frontend, análisis de sistemas y modelado UML para resolver problemas reales en organizaciones.
 
@@ -43,7 +26,7 @@ Diseño sistemas que integren:
 - Análisis de sistemas  
 - Optimización de procesos  
 
-También me interesa la ciencia y el pensamiento analítico, especialmente geología, física, química y astrología, lo cual influye mucho en mi forma de resolver problemas técnicos.
+**También me interesa la ciencia y el pensamiento analítico, especialmente geología, física, química y astrología, lo cual influye mucho en mi forma de resolver problemas técnicos.**
 ---
 
 # Engineering Philosophy
@@ -55,29 +38,11 @@ automate everything possible
 document the system
 scale only when necessary
 ```
+# Mi trayectoria
 
-# Programming
-<p> <img src="https://skillicons.dev/icons?i=javascript"/> </p>
-Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs"/> </p>
-Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,linux"/> </p>
-Security
-- Cryptography
-- SHA-512
-- Hash Algorithms
-- Data Integrity
-
-# GitHub Dashboard
-<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=luiss811&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiss811&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-
-# Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luiss811&theme=tokyo-night&hide_border=true"/>
-
-# Contribution Snake
-<p align="center"> <img src="https://github.com/luiss811/luiss811/blob/output/github-contribution-grid-snake.svg"/> </p>
-
-# Learning Roadmap
+° Titulado en Técnico en programación del Centro de Estudios Tecnológicos industrial y de servicios No.16
+° Titulado en TSU en Desarrollo de Software Multiplataforma en la Universidad Tecnologica de Querétaro (UTEQ)
+° Cursando la Ingeniería 
 
 Actualmente estoy profundizando en:
 
@@ -105,6 +70,15 @@ Herramientas
 - Linux
 - Curl
 
+
+## Proyectos Destacados
+
+| Proyecto       | Descripción                                | Tecnologías   |
+| -------------- | ------------------------------------------ | ------------- |
+| **PetsFamily**   | Aplicación Web basada en el caso de estudio de una clínica veterinaria   | HTML, CSS |
+| **Valkiria App**   |Aplicación Web basada en el caso de estudio de una tienda dedicada a los juegos de mesa| Dart, Bootstrap |
+| **Portfolio**  | Portfolio de presentación          | HTML, CSS, JavaScript    |
+
 # Intereses fuera del código
 
 Cuando no estoy programando me gusta:
@@ -113,3 +87,12 @@ Cuando no estoy programando me gusta:
 - Hacer hiking
 - Ver las estrellas en el cerro por la noche
 - Pasar tiempo con mi perro
+
+# Mi actividad
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luiss811&theme=tokyo-night&hide_border=true"/>
+
+# Se implementar Github Animations Snake
+<p align="center"> <img src="https://github.com/luiss811/luiss811/blob/output/github-contribution-grid-snake.svg"/> </p>
+
+
+° Contacto lalitorios81@gmail.com
