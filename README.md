@@ -61,3 +61,25 @@ secure the architecture
 automate everything possible
 document the system
 scale only when necessary
+
+user@github:~$ whoami
+Luis Eduardo
+
+user@github:~$ role
+Backend Developer
+
+user@github:~$ stack
+Node.js
+JavaScript
+Automation
+Cryptography
+System Architecture
+
+user@github:~$ interests
+AI Systems
+Distributed Systems
+Cybersecurity
+Scientific Thinking
+
+user@github:~$ location
+Querétaro, México
