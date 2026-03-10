@@ -69,13 +69,13 @@ Security
 - Data Integrity
 
 # GitHub Dashboard
-<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=luiss811&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiss811&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 
 # Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luiss811&theme=tokyo-night&hide_border=true"/>
 
 # Contribution Snake
-<p align="center"> <img src="https://github.com/TUUSUARIO/TUUSUARIO/blob/output/github-contribution-grid-snake.svg"/> </p>
+<p align="center"> <img src="https://github.com/luiss811/luiss811/blob/output/github-contribution-grid-snake.svg"/> </p>
 
 # Learning Roadmap
 
