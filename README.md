@@ -26,7 +26,7 @@ Diseño sistemas que integren:
 - Análisis de sistemas  
 - Optimización de procesos  
 
-**También me interesa la ciencia y el pensamiento analítico, especialmente geología, física, química y astrología, lo cual influye mucho en mi forma de resolver problemas técnicos.**
+También me interesa la ciencia y el pensamiento analítico, especialmente geología, física, química y astrología, lo cual influye mucho en mi forma de resolver problemas técnicos.
 ---
 
 # Engineering Philosophy
@@ -41,8 +41,10 @@ scale only when necessary
 # Mi trayectoria
 
 ° Titulado en Técnico en programación del Centro de Estudios Tecnológicos industrial y de servicios No.16
-° Titulado en TSU en Desarrollo de Software Multiplataforma en la Universidad Tecnologica de Querétaro (UTEQ)
-° Cursando la Ingeniería 
+
+* Titulado en TSU en Desarrollo de Software Multiplataforma en la Universidad Tecnologica de Querétaro (UTEQ)
+  
+- Cursando la Ingeniería 
 
 Actualmente estoy profundizando en:
 
