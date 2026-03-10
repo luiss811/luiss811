@@ -15,7 +15,7 @@
 
 
 
-
+![](https://komarev.com/ghpvc/?username=luiss811&color=blue&style=for-the-badge)
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Luis Eduardo
 
@@ -31,29 +31,22 @@ Backend Developer • AI Automation • Software Architecture • Security
 
 ---
 
-# 🧠 Engineering Profile
+# Engineering Profile
 
-Soy desarrollador enfocado en **backend engineering, automatización con inteligencia artificial y arquitectura de software**.
+Soy desarrollador de software enfocado en **arquitectura de sistemas, automatización con inteligencia artificial y seguridad informática**. Me gusta construir soluciones que integren backend, frontend, análisis de sistemas y modelado UML para resolver problemas reales en organizaciones.
 
-Disfruto diseñar sistemas que integren:
+Diseño sistemas que integren:
 
-🔐 Seguridad  
-⚙️ Automatización  
-🧩 Arquitectura escalable  
-📊 Análisis de sistemas  
-🚀 Optimización de procesos  
+- Seguridad  
+- Automatización  
+- Arquitectura escalable  
+- Análisis de sistemas  
+- Optimización de procesos  
 
-Actualmente trabajo en proyectos relacionados con:
-
-- AI Agents  
-- Backend Development  
-- Cryptography  
-- Digital Transformation  
-- Software Architecture  
-
+También me interesa la ciencia y el pensamiento analítico, especialmente geología, física, química y astrología, lo cual influye mucho en mi forma de resolver problemas técnicos.
 ---
 
-# ⚡ Engineering Philosophy
+# Engineering Philosophy
 
 ```bash
 build simple systems
@@ -61,25 +54,62 @@ secure the architecture
 automate everything possible
 document the system
 scale only when necessary
+```
 
-user@github:~$ whoami
-Luis Eduardo
+# Programming
+<p> <img src="https://skillicons.dev/icons?i=javascript"/> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs"/> </p>
+Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,linux"/> </p>
+Security
+- Cryptography
+- SHA-512
+- Hash Algorithms
+- Data Integrity
 
-user@github:~$ role
-Backend Developer
+# GitHub Dashboard
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 
-user@github:~$ stack
-Node.js
-JavaScript
-Automation
-Cryptography
-System Architecture
+# Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luiss811&theme=tokyo-night&hide_border=true"/>
 
-user@github:~$ interests
-AI Systems
-Distributed Systems
-Cybersecurity
-Scientific Thinking
+# Contribution Snake
+<p align="center"> <img src="https://github.com/TUUSUARIO/TUUSUARIO/blob/output/github-contribution-grid-snake.svg"/> </p>
 
-user@github:~$ location
-Querétaro, México
+# Learning Roadmap
+
+Actualmente estoy profundizando en:
+
+Backend
+- Node.js
+- JavaScript
+- APIs REST
+- CLI tools
+
+Seguridad
+- Cryptography
+- Hashing algorithms
+- SHA-512
+- Manejo seguro de datos
+
+Ingeniería de software
+- UML
+- Arquitectura de software
+- Documentación técnica
+- Análisis de sistemas
+
+Herramientas
+- Git
+- GitHub
+- Linux
+- Curl
+
+# Intereses fuera del código
+
+Cuando no estoy programando me gusta:
+- Explorar geología
+- Aprender sobre física y química
+- Hacer hiking
+- Ver las estrellas en el cerro por la noche
+- Pasar tiempo con mi perro
